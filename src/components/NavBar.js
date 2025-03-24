@@ -7,3 +7,5 @@ function NavBar() {
     </nav>
   );
 }
+
+export default NavBar; // or About, or NavBar depending on the file
